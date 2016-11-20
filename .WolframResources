@@ -1,0 +1,11 @@
+Resources[
+    Version[1],
+    Sources[
+        Directory["~"]
+    ],
+    ExecutionBuildCommand["<<AD`"],
+    Paclet[
+        PacletFolder["AD"],
+        FunctionPaclet[True]
+    ]
+]

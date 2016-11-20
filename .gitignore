@@ -1,0 +1,6 @@
+.project
+docbuild.xml
+*.old
+
+build/
+UserGuide/
